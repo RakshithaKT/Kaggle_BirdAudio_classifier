@@ -26,4 +26,4 @@ The tradictional CNN architecture from efficientNet outperformed the hybrid mode
 diagnonsis: The number of epochs required to train a model with transformer is comparitively more than traditional CNN. 
 
 ## Result 
-On submission the model scored a AUC score of 0.714. A huge room for improvement!
+On submission the model scored a AUC score of 0.814 A huge room for improvement!
